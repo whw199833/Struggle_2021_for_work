@@ -1,4 +1,4 @@
-# leetcode---
+# struggle for 2021 work
 
 leetcode_牛客_刷题冲冲冲
 
@@ -12,10 +12,13 @@ leetcode_牛客_刷题冲冲冲
 
 ### 2020.7.4
 #### leetcode:
-
-
 #### 牛客:
+[SQL3](https://www.nowcoder.com/practice/c63c5b54d86e4c6d880e4834bfd70c3b?tpId=82&&tqId=29755&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
+### 2020.7.4
+#### leetcode:
+#### 牛客:
+[SQL3](https://www.nowcoder.com/practice/c63c5b54d86e4c6d880e4834bfd70c3b?tpId=82&&tqId=29755&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking) ||| [SQL4](https://www.nowcoder.com/practice/6d35b1cd593545ab985a68cd86f28671?tpId=82&&tqId=29756&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
 
 
