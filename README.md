@@ -24,5 +24,7 @@ leetcode_牛客_刷题冲冲冲
 
 [SQL5_查找所有员工的last_name和first_name以及对应部门编号dept_no，也包括暂时没有分配具体部门的员工(请注意输出描述里各个列的前后顺序](https://www.nowcoder.com/practice/dbfafafb2ee2482aa390645abd4463bf?tpId=82&&tqId=29757&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
+[SQL6_查找所有员工入职时候的薪水情况，给出emp_no以及salary， 并按照emp_no进行逆序](https://www.nowcoder.com/practice/23142e7a23e4480781a3b978b5e0f33a?tpId=82&&tqId=29758&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
 
 
