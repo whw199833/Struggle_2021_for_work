@@ -26,5 +26,6 @@ leetcode_牛客_刷题冲冲冲
 
 [SQL6_查找所有员工入职时候的薪水情况，给出emp_no以及salary， 并按照emp_no进行逆序](https://www.nowcoder.com/practice/23142e7a23e4480781a3b978b5e0f33a?tpId=82&&tqId=29758&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
+[SQL7_查找薪水变动超过15次的员工号emp_no以及其对应的变动次数t](https://www.nowcoder.com/practice/6d4a4cff1d58495182f536c548fee1ae?tpId=82&&tqId=29759&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
 
