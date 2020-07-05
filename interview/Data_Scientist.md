@@ -30,7 +30,7 @@
     设事件L1 ~ Ln是一个完备事件组，则对于任意一个事件Ｃ，若有如下公式成立：
 ![image](https://raw.githubusercontent.com/whw199833/2021_for_work/master/images/20170718154223896.gif)
 
-    详情可见: https://blog.csdn.net/u010164190/article/details/81043856
+详情可见: https://blog.csdn.net/u010164190/article/details/81043856
     
 ## 工具篇:
 ### 1. SQL 子查询, 子表命名
@@ -41,4 +41,4 @@
 
 出现在from子句的子查询后，having就显得不必要，因为having子句使用的谓词出现在外层查询的where子句中，当然，不是说不可以用。
 
-    详情可见: https://www.jianshu.com/p/c5d78219abbd
+详情可见: https://www.jianshu.com/p/c5d78219abbd
