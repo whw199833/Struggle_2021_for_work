@@ -41,4 +41,14 @@
 
 出现在from子句的子查询后，having就显得不必要，因为having子句使用的谓词出现在外层查询的where子句中，当然，不是说不可以用。
 
+    下面的code中,子表命名为S
+    
+    SELECT dept_name,avg_salary
+    FROM (
+      SELECT dept_name,avg(salary) AS avg_salary
+      FROM instructor
+      GROUP BY dept_name
+    )AS S 
+    WHERE S.avg_salary>15000;
+       
 详情可见: https://www.jianshu.com/p/c5d78219abbd
