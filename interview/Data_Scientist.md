@@ -29,6 +29,16 @@
 
     设事件L1 ~ Ln是一个完备事件组，则对于任意一个事件Ｃ，若有如下公式成立：
 ![image](https://raw.githubusercontent.com/whw199833/2021_for_work/master/images/20170718154223896.gif)
+
+    详情可见: https://blog.csdn.net/u010164190/article/details/81043856
     
 ## 工具篇:
 ### 1. SQL 子查询, 子表命名
+
+嵌套SELECT语句也叫子查询，一个 SELECT 语句的查询结果能够作为另一个语句的输入值。子查询不但能够出现在Where子句中，也能够出现在from子句中，作为一个临时表使用，也能够出现在select list中，作为一个字段值来返回。
+
+出现在where中较多,子查询嵌套在where子句中，通常用于对集合成员资格、集合的比较以及集合的基数进行检查。
+
+出现在from子句的子查询后，having就显得不必要，因为having子句使用的谓词出现在外层查询的where子句中，当然，不是说不可以用。
+
+    详情可见: https://www.jianshu.com/p/c5d78219abbd
