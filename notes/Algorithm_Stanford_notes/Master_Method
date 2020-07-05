@@ -49,7 +49,7 @@
  
 
       Total work <= cn^d X sum ( (a/b^d)^j ) (j=1~logb n)
-      ![image](https://github.com/whw199833/2021_for_work/notes/Algorithm_Stanford_notes/picture_in_notes/1.jpg)
+      ![image](https://github.com/whw199833/2021_for_work/raw/master/notes/Algorithm_Stanford_notes/picture_in_notes/1.jpg)
  
  4.  If a = b^d , then (a/b^d) ^j =1 , so the total work <= cn^d X (logb n +1 ) = O(n^d log n )
 
