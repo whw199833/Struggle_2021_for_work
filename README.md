@@ -47,6 +47,8 @@ to do list:
 
 [LeetCode_106_二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) ### [经典栈迭代解法](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/stackgai-ceng-xu-bian-li-by-zheng-yi-nowei-fang/)
 
+[LeetCode_21_合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) ### [迭代](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/xin-jian-yi-ge-jie-dian-bao-cun-by-zheng-yi-nowei-/)
+
 #### 牛客:
 [SQL10_获取所有非manager的员工emp_no](https://www.nowcoder.com/practice/32c53d06443346f4a2f2ca733c19660c?tpId=82&&tqId=29762&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
