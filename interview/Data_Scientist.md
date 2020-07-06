@@ -80,7 +80,10 @@
 ### 3. SQL having和where的区别
 
 where 在查询结果集返回之前过滤数据库中的数据, where中不能使用聚合函数.
+
 having 在查询结果集后过滤数据库中的函数, having中可以使用聚合函数.
+
+HAVING子句可以让我们筛选成组后的各组数据，WHERE子句在聚合前先筛选记录．也就是说作用在GROUP BY 子句和HAVING子句前；而 HAVING子句在聚合后对组记录进行筛选。
 
 HAVING语句通常（亲自验证，不是必须！）与GROUP BY语句联合使用，用来过滤由GROUP BY语句返回的记录集。
 
