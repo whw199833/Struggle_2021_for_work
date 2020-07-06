@@ -77,6 +77,16 @@
 
 ### 2. SQL 左连接右连接全连接,连接表实际怎么做的,关联之间的区别
 
+left join （左连接）：返回包括左表中的所有记录和右表中连接字段相等的记录。
+
+right join （右连接）：返回包括右表中的所有记录和左表中连接字段相等的记录。
+
+inner join （等值连接或者叫内连接）：只返回两个表中连接字段相等的行。
+
+full join （全外连接）：返回左右表中所有的记录和左右表中连接字段相等的记录。
+
+注：在sql中l外连接包括左连接（left join ）和右连接（right join），全外连接（full join），等值连接（inner join）又叫内连接。
+
 ### 3. SQL having和where的区别
 
 where 在查询结果集返回之前过滤数据库中的数据, where中不能使用聚合函数.
@@ -106,5 +116,65 @@ SQL中提供的聚合函数可以用来统计、求和、求最值等等。
 
 
 ### 4. SQL 主键的选择
+
+主键是能确定一条记录的唯一标识，比如，一条记录包括身份正号，姓名，年龄。身份证号是唯一能确定你这个人的，其他都可能有重复，所以，身份证号是主键。
+
+外键用于与另一张表的关联。是能确定另一张表记录的字段，用于保持数据的一致性。比如，A表中的一个字段，是B表的主键，那他就可以是A表的外键。
+
+    
+    --设置主键方法一：
+    drop table student    --删除表student
+    create table student  --创建表student
+    (sno char(4) primary key,  --设置sno为主键
+    sname char(8),
+    sage int,
+    ssex char(2),
+    sdept char(20)
+    )
+    
+    --设置主键方法二：
+    drop table sc    --删除表sc
+    create table sc  --创建表sc
+    (sno char(4),
+    cno char(4),
+    grade int,
+    primary key(sno, cno)  --设置sno和cno的属性组为主键
+    )
+    
+    
+    --设置外键：
+    CREATE TABLE table_name  
+    (  
+        column1 datatype [ NULL | NOT NULL ],  
+        column2 datatype [ NULL | NOT NULL ],  
+        ...  
+        CONSTRAINT fk_column  
+        FOREIGN KEY (column1, column2, ... column_n)  
+        REFERENCES parent_table (column1, column2, ... column_n)  
+    )
+    
+    
+    --code实例：创建一个以department表作为引用表(父表)拥有外键的 employees 表， employees 表的department_id列引用父表department的department_id列作为外键。    
+    -- 父表
+    CREATE TABLE departments  
+    (
+        department_id INTEGER PRIMARY KEY AUTOINCREMENT,  
+        department_name VARCHAR  
+    );  
+    -- 拥有外键的表
+    CREATE TABLE employees  
+    (
+        employee_id INTEGER PRIMARY KEY AUTOINCREMENT,  
+        last_name VARCHAR NOT NULL,  
+        first_name VARCHAR,  
+        department_id INTEGER,  
+        CONSTRAINT fk_departments  
+        FOREIGN KEY (department_id)  
+        REFERENCES departments(department_id)  
+    )
+
+
+
+
 
 ### 5. Python 7.python读取文件并排序，用的包和调用的函数
