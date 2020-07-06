@@ -43,7 +43,10 @@ to do list:
 ### 2020.7.6
 #### leetcode:
 
-[LeetCode206_反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) ### [迭代法和递归求解](https://leetcode-cn.com/problems/reverse-linked-list/solution/shi-pin-jiang-jie-di-gui-by-geek-8m/)
+[LeetCode_206_反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) ### [迭代法和递归求解](https://leetcode-cn.com/problems/reverse-linked-list/solution/shi-pin-jiang-jie-di-gui-by-geek-8m/)
+
+[LeetCode_106_二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) ### [经典栈迭代解法](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/stackgai-ceng-xu-bian-li-by-zheng-yi-nowei-fang/)
+
 #### 牛客:
 [SQL10_获取所有非manager的员工emp_no](https://www.nowcoder.com/practice/32c53d06443346f4a2f2ca733c19660c?tpId=82&&tqId=29762&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
