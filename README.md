@@ -10,7 +10,7 @@ to do list:
 3. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
 3. [中科大《凸优化》](https://www.bilibili.com/video/BV1Jt411p7jE)
 
-1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839）  [笔记](https://github.com/whw199833/DataStructure_Algorithm_ZJU)
+1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) [笔记](https://github.com/whw199833/DataStructure_Algorithm_ZJU)
 2. [数据库]
 3. [笔试面试题整理](https://hit-alibaba.github.io/interview/)
 ## * ⛽️刷题篇
