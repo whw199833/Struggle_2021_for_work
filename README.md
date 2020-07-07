@@ -2,6 +2,8 @@
 
 [python编程技巧](https://codle.net/advance-python/)
 
+[Attention is all you need](https://codle.net/attention-is-all-you-need/)
+
 leetcode_牛客_刷题冲冲冲
 
 to do list:
