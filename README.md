@@ -58,3 +58,21 @@ to do list:
 [SQL11_获取所有员工当前的(dept_manager.to_date='9999-01-01')manager，如果员工是manager的话不显示(也就是如果当前的manager是自己的话结果不显示)。输出结果第一列给出当前员工的emp_no,第二列给出其manager对应的emp_no。](https://www.nowcoder.com/practice/e50d92b8673a440ebdf3a517b5b37d62?tpId=82&&tqId=29763&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
 [SQL12_获取所有部门中当前(dept_emp.to_date = '9999-01-01')员工当前(salaries.to_date='9999-01-01')薪水最高的相关信息，给出dept_no, emp_no以及其对应的salary](https://www.nowcoder.com/practice/4a052e3e1df5435880d4353eb18a91c6)
+
+### 2020.7.7
+#### leetcode:
+
+[]() ### []()
+
+[]() ### []()
+
+[]() ### []()
+
+#### 牛客:
+[SQL13_从titles表获取按照title进行分组，每组个数大于等于2，给出title以及对应的数目t。](https://www.nowcoder.com/practice/72ca694734294dc78f513e147da7821e?tpId=82&&tqId=29765&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
+♥[SQL14_从titles表获取按照title进行分组，每组个数大于等于2，给出title以及对应的数目t。
+注意对于重复的emp_no进行忽略(即emp_no重复的title不计算，title对应的数目t不增加)。](https://www.nowcoder.com/practice/c59b452f420c47f48d9c86d69efdff20?tpId=82&&tqId=29766&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
+[SQL15_从titles表获取按照title进行分组，每组个数大于等于2，给出title以及对应的数目t。
+注意对于重复的emp_no进行忽略(即emp_no重复的title不计算，title对应的数目t不增加)。](https://www.nowcoder.com/practice/a32669eb1d1740e785f105fa22741d5c?tpId=82&&tqId=29767&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
