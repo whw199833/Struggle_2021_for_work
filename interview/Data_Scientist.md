@@ -84,7 +84,6 @@
 为什么没有time这样的组合索引呢？这是因为MySQL组合索引“最左前缀”的结果。简单的理解就是只从最左面的开始组合。并不是只要包含这两列的查询都会用到该组合索引
 
         alter table student add index my_index(name, age)   // name左边的列， age 右边的列                                                              
-
         select * from student where name = 'aaa'     // 会用到索引
 
         select * from student where age = 18          //  不会使用索引
