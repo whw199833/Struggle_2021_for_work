@@ -16,7 +16,7 @@ to do list:
 
 1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/whw199833/DataStructure_Algorithm_ZJU)
 2. [数据库]
-3. [笔试面试题整理](https://hit-alibaba.github.io/interview/) [第二弹](https://codle.net/intern-interview/)
+3. [笔试面试题整理](https://hit-alibaba.github.io/interview/) +  [第二弹](https://codle.net/intern-interview/)
 ## * ⛽️刷题篇
 
 
