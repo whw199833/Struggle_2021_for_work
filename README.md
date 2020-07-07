@@ -1,5 +1,7 @@
 # Struggle For 2021 Work
 
+[python编程技巧](https://codle.net/advance-python/)
+
 leetcode_牛客_刷题冲冲冲
 
 to do list:
