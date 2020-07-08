@@ -70,13 +70,6 @@ to do list:
 
 ### 2020.7.7
 #### leetcode:
-
-[]() ### []()
-
-[]() ### []()
-
-[]() ### []()
-
 #### 牛客:
 [SQL13_从titles表获取按照title进行分组，每组个数大于等于2，给出title以及对应的数目t。](https://www.nowcoder.com/practice/72ca694734294dc78f513e147da7821e?tpId=82&&tqId=29765&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
@@ -85,3 +78,19 @@ to do list:
 
 [SQL15_从titles表获取按照title进行分组，每组个数大于等于2，给出title以及对应的数目t。
 注意对于重复的emp_no进行忽略(即emp_no重复的title不计算，title对应的数目t不增加)。](https://www.nowcoder.com/practice/a32669eb1d1740e785f105fa22741d5c?tpId=82&&tqId=29767&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
+### 2020.7.8
+#### leetcode:
+
+[]() ### []()
+
+[]() ### []()
+
+[]() ### []()
+
+#### 牛客:
+[SQL13_](https://www.nowcoder.com/practice/72ca694734294dc78f513e147da7821e?tpId=82&&tqId=29765&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
+[SQL14_](https://www.nowcoder.com/practice/c59b452f420c47f48d9c86d69efdff20?tpId=82&&tqId=29766&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
+[SQL15_](https://www.nowcoder.com/practice/a32669eb1d1740e785f105fa22741d5c?tpId=82&&tqId=29767&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
