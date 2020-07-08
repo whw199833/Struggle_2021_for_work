@@ -2,7 +2,7 @@
 
 [python编程技巧](https://codle.net/advance-python/)
 
-[Attention is all you need](https://codle.net/attention-is-all-you-need/)
+[Pytorch_code_learning_tutorial](https://pytorch.org/tutorials/)
 
 ## * ⛽️to do list:
 ---
