@@ -83,7 +83,7 @@
 ### 2020.7.8
 #### leetcode:
 
-[]() ### []()
+[LeetCode_121_买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) ### [dp](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/dp-by-zheng-yi-nowei-fang/)
 
 []() ### []()
 
