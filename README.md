@@ -17,6 +17,11 @@ to do list:
 1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/whw199833/DataStructure_Algorithm_ZJU)
 2. [数据库]
 3. [笔试面试题整理](https://hit-alibaba.github.io/interview/) +  [第二弹](https://codle.net/intern-interview/)
+
+1. [机器学习与深度学习习题集答案_1](http://www.tensorinfinity.com/paper_225.html)
+
+2. [机器学习与深度学习习题集答案_2](http://www.tensorinfinity.com/paper_227.html)
+
 ## * ⛽️刷题篇
 
 
