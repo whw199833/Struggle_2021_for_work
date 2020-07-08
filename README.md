@@ -1,5 +1,7 @@
 # Struggle For 2021 Work
 
+[刷题参考](https://github.com/DmrfCoder/AlgorithmAndDataStructure)
+
 [python编程技巧](https://codle.net/advance-python/)
 
 [Pytorch_code_learning_tutorial](https://pytorch.org/tutorials/)
@@ -13,7 +15,7 @@
 3. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
 3. [中科大《凸优化》](https://www.bilibili.com/video/BV1Jt411p7jE)
 
-1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/whw199833/DataStructure_Algorithm_ZJU)
+1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
 2. [数据库]
 3. [笔试面试题整理](https://hit-alibaba.github.io/interview/) +  [第二弹](https://codle.net/intern-interview/)
 
