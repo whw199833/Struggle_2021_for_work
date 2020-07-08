@@ -8,3 +8,9 @@
 [Attention机制_详解与代码解释](https://luozhouyang.github.io/attetnion_mechanism/)
 
 [BERT模型详解](http://fancyerii.github.io/2019/03/09/bert-theory/#mask-lm)
+
+
+### Bert和transformer
+Bert 只有Transformer的encoder, 叠了12层, 每层有一个self attention和一个feed forward 层, 由于它只有transformer, 所以使用mask来进行训练和预测, loss函数, Mask另一个功能是让mask的部分同时接受上下游的信息进行编码训练.
+
+Transformer 的encoder只有两层,编码能力弱, 和decoder连用后根据目标产生损失函数来更新整体的参数.
