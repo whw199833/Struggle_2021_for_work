@@ -4,8 +4,6 @@
 
 [Attention is all you need](https://codle.net/attention-is-all-you-need/)
 
-leetcode_牛客_刷题冲冲冲
-
 ## * ⛽️to do list:
 ---
 1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
