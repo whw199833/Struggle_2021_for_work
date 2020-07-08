@@ -6,7 +6,8 @@
 
 leetcode_牛客_刷题冲冲冲
 
-to do list:
+## * ⛽️to do list:
+---
 1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
 1. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
 2. [浙大研究生课《机器学习》](https://www.bilibili.com/video/BV1dJ411B7gh?p=6) (SVM讲解）
@@ -23,7 +24,7 @@ to do list:
 2. [机器学习与深度学习习题集答案_2](http://www.tensorinfinity.com/paper_227.html)
 
 ## * ⛽️刷题篇
-
+---
 
 ### 2020.7.3
 #### leetcode: 
