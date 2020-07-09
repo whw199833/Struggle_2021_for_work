@@ -95,3 +95,16 @@
 [SQL17_获取当前（to_date='9999-01-01'）薪水第二多的员工的emp_no以及其对应的薪水salary](https://www.nowcoder.com/practice/8d2c290cc4e24403b98ca82ce45d04db?tpId=82&&tqId=29769&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
 ♥[SQL18_查找当前薪水(to_date='9999-01-01')排名第二多的员工编号emp_no、薪水salary、last_name以及first_name，你可以不使用order by完成吗](https://www.nowcoder.com/practice/c1472daba75d4635b7f8540b837cc719?tpId=82&&tqId=29770&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
+### 2020.7.9
+#### leetcode:
+
+
+[LeetCode_121_买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) ### [dp](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/dp-by-zheng-yi-nowei-fang/)
+
+#### 牛客:
+[SQL19_查找所有员工的last_name和first_name以及对应的dept_name，也包括暂时没有分配部门的员工](https://www.nowcoder.com/practice/5a7975fabe1146329cee4f670c27ad55?tpId=82&&tqId=29771&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
+[SQL20_查找员工编号emp_no为10001其自入职以来的薪水salary涨幅(总共涨了多少)growth(可能有多次涨薪，没有降薪)](https://www.nowcoder.com/practice/c727647886004942a89848e2b5130dc2?tpId=82&&tqId=29772&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
+[SQL21_查找所有员工自入职以来的薪水涨幅情况，给出员工编号emp_no以及其对应的薪水涨幅growth，并按照growth进行升序](https://www.nowcoder.com/practice/fc7344ece7294b9e98401826b94c6ea5)
