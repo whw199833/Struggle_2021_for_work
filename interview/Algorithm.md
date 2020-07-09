@@ -14,3 +14,14 @@
 Bert 只有Transformer的encoder, 叠了12层, 每层有一个self attention和一个feed forward 层, 由于它只有transformer, 所以使用mask来进行训练和预测, loss函数, Mask另一个功能是让mask的部分同时接受上下游的信息进行编码训练.
 
 Transformer 的encoder只有两层,编码能力弱, 和decoder连用后根据目标产生损失函数来更新整体的参数.
+
+### 梯度消失和梯度爆炸的解决
+
+1. 预训练加微调
+2. 梯度剪切、权重正则， L1和L2
+3. 使用不同的激活函数
+4. 使用batchnorm
+5. 使用残差网络
+6. 使用LSTM
+
+[详情](https://blog.csdn.net/qq_25737169/article/details/78847691)
