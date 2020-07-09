@@ -24,4 +24,4 @@ Transformer 的encoder只有两层,编码能力弱, 和decoder连用后根据目
 5. 使用残差网络
 6. 使用LSTM
 
-[详情](https://blog.csdn.net/qq_25737169/article/details/78847691)
+[详解机器学习中的梯度消失、爆炸原因及其解决方法](https://blog.csdn.net/qq_25737169/article/details/78847691)
