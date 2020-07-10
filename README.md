@@ -23,6 +23,17 @@
 
 2. [机器学习与深度学习习题集答案_2](http://www.tensorinfinity.com/paper_227.html)
 
+## * ⛽️to do list:
+---
+1. [面经补课_1](https://mp.weixin.qq.com/s/ev7-i0iZxLck-h3t-MhfAQ)
+1. [面经补课_2](https://mp.weixin.qq.com/s/67k6PCGaIwcqq_DVPrIkcw)
+2. [面经补课_3](https://mp.weixin.qq.com/s/ma_UubKmJIXjuhkKB0dLoA)
+1. [面经补课_4](https://mp.weixin.qq.com/s/8yAGMIWkhtF7cW0Ts6hYLw)
+1. [面经补课_5](https://mp.weixin.qq.com/s/T1fLKQnP-uanIOcDm4dLHQ)
+2. [面经补课_6](https://mp.weixin.qq.com/s/gY-oi2m3MVV7IX8YCJHFMA)
+1. [面经补课_7](https://mp.weixin.qq.com/s/9F8_xMgGHqbI0fOEhQDnaA)
+2. [面经补课_8](https://mp.weixin.qq.com/s/yCs-PJ7VJ1DE_b5ABP0_GQ)
+
 ## * ⛽️刷题篇
 ---
 
