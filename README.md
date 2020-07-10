@@ -130,4 +130,4 @@
 
 ♥[SQL23_对所有员工的当前(to_date='9999-01-01')薪水按照salary进行按照1-N的排名，相同salary并列且按照emp_no升序排列](https://www.nowcoder.com/practice/b9068bfe5df74276bd015b9729eec4bf)
 
-[SQL24_获取所有非manager员工当前的薪水情况，给出dept_no、emp_no以及salary](https://www.nowcoder.com/practice/8fe212a6c71b42de9c15c56ce354bebe)
+[SQL24_获取所有非manager员工当前的薪水情况，给出dept_no、emp_no以及salary](https://www.nowcoder.com/practice/8fe212a6c71b42de9c15c56ce354bebe) exists 和 in, exists表示前者包含于后者, in指的是前面比后面大
