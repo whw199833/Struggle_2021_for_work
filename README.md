@@ -112,13 +112,22 @@
 
 ### 2020.7.9
 #### leetcode:
-
-
-[LeetCode_121_买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) ### [dp](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/dp-by-zheng-yi-nowei-fang/)
-
 #### 牛客:
 [SQL19_查找所有员工的last_name和first_name以及对应的dept_name，也包括暂时没有分配部门的员工](https://www.nowcoder.com/practice/5a7975fabe1146329cee4f670c27ad55?tpId=82&&tqId=29771&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
 [SQL20_查找员工编号emp_no为10001其自入职以来的薪水salary涨幅(总共涨了多少)growth(可能有多次涨薪，没有降薪)](https://www.nowcoder.com/practice/c727647886004942a89848e2b5130dc2?tpId=82&&tqId=29772&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
 [SQL21_查找所有员工自入职以来的薪水涨幅情况，给出员工编号emp_no以及其对应的薪水涨幅growth，并按照growth进行升序](https://www.nowcoder.com/practice/fc7344ece7294b9e98401826b94c6ea5)
+
+### 2020.7.9
+#### leetcode:
+
+
+[LeetCode_121_](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) ### [dp](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/dp-by-zheng-yi-nowei-fang/)
+
+#### 牛客:
+[SQL22_统计各个部门的工资记录数，给出部门编码dept_no、部门名称dept_name以及部门在salaries表里面有多少条记录sum](https://www.nowcoder.com/practice/6a62b6c0a7324350a6d9959fa7c21db3?tpId=82&&tqId=29774&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+
+♥[SQL23_对所有员工的当前(to_date='9999-01-01')薪水按照salary进行按照1-N的排名，相同salary并列且按照emp_no升序排列](https://www.nowcoder.com/practice/b9068bfe5df74276bd015b9729eec4bf)
+
+[SQL24_获取所有非manager员工当前的薪水情况，给出dept_no、emp_no以及salary](https://www.nowcoder.com/practice/8fe212a6c71b42de9c15c56ce354bebe)
