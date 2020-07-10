@@ -17,7 +17,7 @@
 
 1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
 2. [数据库]
-3. [笔试面试题整理](https://hit-alibaba.github.io/interview/) +  [第二弹](https://codle.net/intern-interview/)
+3. [笔试面试题整理](https://hit-alibaba.github.io/interview/) +  [第二弹](https://github.com/NLP-LOVE/ML-NLP)
 
 1. [机器学习与深度学习习题集答案_1](http://www.tensorinfinity.com/paper_225.html)
 
@@ -35,6 +35,7 @@
 2. [面经补课_6](https://mp.weixin.qq.com/s/gY-oi2m3MVV7IX8YCJHFMA)
 1. [面经补课_7](https://mp.weixin.qq.com/s/9F8_xMgGHqbI0fOEhQDnaA)
 2. [面经补课_8](https://mp.weixin.qq.com/s/yCs-PJ7VJ1DE_b5ABP0_GQ)
+2. [面经补课_9](https://codle.net/intern-interview/)
 
 ## * ⛽️刷题篇
 ---
