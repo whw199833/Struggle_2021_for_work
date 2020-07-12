@@ -8,8 +8,10 @@
 
 ## * ⛽️to do list:
 ---
-1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
-1. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
+●1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
+1. [统计学习方法](https://www.bilibili.com/video/BV1i4411G7Xv)
+1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
+●1. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
 2. [浙大研究生课《机器学习》](https://www.bilibili.com/video/BV1dJ411B7gh?p=6) (SVM讲解）
 3. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
 3. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
@@ -17,6 +19,8 @@
 
 1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
 2. [数据库]
+
+--- 
 3. [笔试面试题整理](https://hit-alibaba.github.io/interview/) +  [第二弹](https://github.com/NLP-LOVE/ML-NLP)
 
 1. [机器学习与深度学习习题集答案_1](http://www.tensorinfinity.com/paper_225.html)
