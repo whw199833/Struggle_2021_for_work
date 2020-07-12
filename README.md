@@ -13,13 +13,13 @@
 1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
 
 ●1. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
-2. [浙大研究生课《机器学习》](https://www.bilibili.com/video/BV1dJ411B7gh?p=6) (SVM讲解）
-3. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
-3. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
-3. [中科大《凸优化》](https://www.bilibili.com/video/BV1Jt411p7jE)
+1. [浙大研究生课《机器学习》](https://www.bilibili.com/video/BV1dJ411B7gh?p=6) (SVM讲解）
+1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
+1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
+1. [中科大《凸优化》](https://www.bilibili.com/video/BV1Jt411p7jE)
 
 1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
-2. [数据库]
+1. [数据库]
 
 --- 
 3. [笔试面试题整理](https://hit-alibaba.github.io/interview/) +  [第二弹](https://github.com/NLP-LOVE/ML-NLP)
