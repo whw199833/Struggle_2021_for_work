@@ -7,7 +7,7 @@
 
 [Attention机制_详解与代码解释](https://luozhouyang.github.io/attetnion_mechanism/)
 
-[BERT模型详解](http://fancyerii.github.io/2019/03/09/bert-theory/#mask-lm)
+[BERT模型详解](https://zhuanlan.zhihu.com/p/103226488)
 
 
 ### 1. Bert和transformer
