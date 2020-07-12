@@ -2,7 +2,7 @@
 
 [刷题参考](https://github.com/DmrfCoder/AlgorithmAndDataStructure)
 
-[关于python编程](https://www.bilibili.com/video/BV1t4411v794?p=39)
+●[关于python编程](https://www.bilibili.com/video/BV1t4411v794?p=39)
 
 [python编程技巧](https://codle.net/advance-python/)
 
