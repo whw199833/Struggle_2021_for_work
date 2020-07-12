@@ -27,11 +27,11 @@ Transformer 的encoder只有两层,编码能力弱, 和decoder连用后根据目
 [详解机器学习中的梯度消失、爆炸原因及其解决方法](https://blog.csdn.net/qq_25737169/article/details/78847691)
 
 ### 3. 过拟合怎么办
-增加数据
-使用更简单的模型，例如树可以使用更浅的树，权重降低
-增加regularization L1，or L2
-特征抽样
-normalization
-增加dropout
-使用不同模型进行bagging
-early stopping
+    增加数据
+    使用更简单的模型，例如树可以使用更浅的树，权重降低
+    增加regularization L1，or L2
+    特征抽样
+    normalization
+    增加dropout
+    使用不同模型进行bagging
+    early stopping
