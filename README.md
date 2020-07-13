@@ -22,6 +22,7 @@
 1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
 1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
 1. [中科大《凸优化》](https://www.bilibili.com/video/BV1Jt411p7jE)
+1. [CS224n_NLP](https://www.bilibili.com/video/BV1r4411f7td)
 
 1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
 1. [数据库]
