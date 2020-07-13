@@ -9,6 +9,9 @@
 [Pytorch_code_learning_tutorial](https://pytorch.org/tutorials/)
 
 ## * ⛽️to do list:
+
+(๑•̀ㅂ•́)و✧[SQL必知必会]
+
 ---
 ●1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
 1. [统计学习方法](https://www.bilibili.com/video/BV1i4411G7Xv)
