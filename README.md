@@ -17,7 +17,7 @@
 1. [统计学习方法](https://www.bilibili.com/video/BV1i4411G7Xv)
 1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
 
-●1. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
+(๑•̀ㅂ•́)و✧ [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
 1. [浙大研究生课《机器学习》](https://www.bilibili.com/video/BV1dJ411B7gh?p=6) (SVM讲解）
 1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
 1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
