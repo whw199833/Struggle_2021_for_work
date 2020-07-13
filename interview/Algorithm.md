@@ -9,6 +9,7 @@
 
 [BERT模型详解](https://zhuanlan.zhihu.com/p/103226488)
 
+[ELECTRA详解](https://zhuanlan.zhihu.com/p/118135466)
 
 ### 1. Bert和transformer
 Bert 只有Transformer的encoder, 叠了12层, 每层有一个self attention和一个feed forward 层, 由于它只有transformer, 所以使用mask来进行训练和预测, loss函数, Mask另一个功能是让mask的部分同时接受上下游的信息进行编码训练.
