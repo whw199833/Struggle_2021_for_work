@@ -1,5 +1,11 @@
 # Struggle For 2021 Work
 
+## * ⛽️Done:
+[SQL必知必会]
+
+[机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
+--- 
+
 [刷题参考](https://github.com/DmrfCoder/AlgorithmAndDataStructure)
 
 ●[关于python编程](https://www.bilibili.com/video/BV1t4411v794?p=39)
@@ -9,15 +15,12 @@
 [Pytorch_code_learning_tutorial](https://pytorch.org/tutorials/)
 
 ## * ⛽️to do list:
-
-[b]DONE[\b][SQL必知必会]
-
 ---
 ●1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
 1. [统计学习方法](https://www.bilibili.com/video/BV1i4411G7Xv)
 1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
 
-(๑•̀ㅂ•́)و✧ [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
+
 1. [浙大研究生课《机器学习》](https://www.bilibili.com/video/BV1dJ411B7gh?p=6) (SVM讲解）
 1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
 1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
