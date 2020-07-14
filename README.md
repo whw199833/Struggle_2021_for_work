@@ -10,7 +10,7 @@
 
 ## * ⛽️to do list:
 
-[b](๑•̀ㅂ•́)و✧[\b][SQL必知必会]
+[b]DONE[\b][SQL必知必会]
 
 ---
 ●1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
