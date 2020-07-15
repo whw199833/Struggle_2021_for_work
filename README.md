@@ -1,9 +1,9 @@
 # Struggle For 2021 Work
 
 ## * 🐓Done:
-[SQL必知必会]
+1. [SQL必知必会]
 
-[机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
+2. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
 
 --- 
 ## * ⛽️to do list:
@@ -31,7 +31,7 @@
 1. [中科大《凸优化》](https://www.bilibili.com/video/BV1Jt411p7jE)
 1. [CS224n_NLP](https://www.bilibili.com/video/BV1r4411f7td)
 
-1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
+●1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
 1. [数据库]
 
 --- 
