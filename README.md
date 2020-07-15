@@ -24,6 +24,8 @@
 1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
 1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
 
+1. [kernel method](https://www.bilibili.com/video/av31552048/?spm_id_from=333.788.videocard.1)
+
 
 1. [浙大研究生课《机器学习》](https://www.bilibili.com/video/BV1dJ411B7gh?p=6) (SVM讲解）
 1. [中科大《凸优化》](https://www.bilibili.com/video/BV1Jt411p7jE)
