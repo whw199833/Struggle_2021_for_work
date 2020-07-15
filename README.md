@@ -1,6 +1,6 @@
 # Struggle For 2021 Work
 
-## * ⛽️Done:
+## * 🐓Done:
 [SQL必知必会]
 
 [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
@@ -55,7 +55,7 @@
 2. [面经补课_8](https://mp.weixin.qq.com/s/yCs-PJ7VJ1DE_b5ABP0_GQ)
 2. [面经补课_9](https://codle.net/intern-interview/)
 
-## * ⛽️刷题篇
+## * 🐈刷题篇
 ---
 
 ### 2020.7.3
