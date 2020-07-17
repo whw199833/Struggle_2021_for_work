@@ -11,7 +11,7 @@
 
 [刷题参考](https://github.com/DmrfCoder/AlgorithmAndDataStructure)
 
-●[关于python编程](https://www.bilibili.com/video/BV1t4411v794?p=39)
+[关于python编程](https://www.bilibili.com/video/BV1t4411v794?p=39)
 
 [python编程技巧](https://codle.net/advance-python/)
 
@@ -19,8 +19,8 @@
 
 ## * ⛽️to do list:
 ---
-1. [统计学习方法](https://www.bilibili.com/video/BV1i4411G7Xv)
-1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
+●1. [统计学习方法](https://www.bilibili.com/video/BV1i4411G7Xv)
+●1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
 1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
 1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
 
