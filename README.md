@@ -6,6 +6,8 @@
 2. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
 
 1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
+
+1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
 --- 
 ## * ⛽️to do list:
 
@@ -22,7 +24,7 @@
 1. [统计学习方法](https://www.bilibili.com/video/BV1i4411G7Xv)
 
 ●1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
-●1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
+
 1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
 1. [西瓜书后几章和神经网络]
 
