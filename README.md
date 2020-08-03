@@ -9,7 +9,7 @@
 
 1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
 
-1.[tableau四大表](https://www.bilibili.com/video/BV1fz4y1D7gm)
+1. [tableau四大表](https://www.bilibili.com/video/BV1fz4y1D7gm)
 
 --- 
 ## * ⛽️to do list:
