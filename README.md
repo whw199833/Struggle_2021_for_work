@@ -11,6 +11,8 @@
 --- 
 ## * ⛽️to do list:
 
+●[BAT面试1000题](https://zhuanlan.zhihu.com/p/41952330)
+
 [刷题参考](https://github.com/DmrfCoder/AlgorithmAndDataStructure)
 
 [关于python编程](https://www.bilibili.com/video/BV1t4411v794?p=39)
@@ -25,7 +27,7 @@
 
 ●1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
 
-1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
+●1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
 1. [西瓜书后几章和神经网络]
 
 1. [kernel method](https://www.bilibili.com/video/av31552048/?spm_id_from=333.788.videocard.1)
@@ -35,7 +37,8 @@
 1. [中科大《凸优化》](https://www.bilibili.com/video/BV1Jt411p7jE)
 1. [CS224n_NLP](https://www.bilibili.com/video/BV1r4411f7td)
 
-●1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
+●1. [数据结构](https://www.bilibili.com/video/BV1b54y1q7Hj)
+1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
 1. [数据库]
 
 --- 
