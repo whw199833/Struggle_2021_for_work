@@ -32,6 +32,8 @@
 
 ●[概统](https://www.bilibili.com/video/BV1n741137tv?p=1)
 
+●[50道SQL练习题及答案与详细分析](https://www.jianshu.com/p/476b52ee4f1b)
+
 1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
 
 ●1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
