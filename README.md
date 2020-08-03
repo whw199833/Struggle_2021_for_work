@@ -3,6 +3,8 @@
 ## * 🐓Done:
 1. [SQL必知必会]
 
+1. [SQL牛客编程题61道](https://www.nowcoder.com/ta/sql)
+
 2. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
 
 1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
