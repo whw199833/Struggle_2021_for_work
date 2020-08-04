@@ -156,12 +156,19 @@
 ### 2020.7.9
 #### leetcode:
 
-
 [LeetCode_121_](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) ### [dp](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/dp-by-zheng-yi-nowei-fang/)
 
 #### 牛客:
-[SQL22_统计各个部门的工资记录数，给出部门编码dept_no、部门名称dept_name以及部门在salaries表里面有多少条记录sum](https://www.nowcoder.com/practice/6a62b6c0a7324350a6d9959fa7c21db3?tpId=82&&tqId=29774&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
+[SQL22](https://www.nowcoder.com/practice/6a62b6c0a7324350a6d9959fa7c21db3?tpId=82&&tqId=29774&rp=1&ru=/ta/sql&qru=/ta/sql/question-ranking)
 
-♥[SQL23_对所有员工的当前(to_date='9999-01-01')薪水按照salary进行按照1-N的排名，相同salary并列且按照emp_no升序排列](https://www.nowcoder.com/practice/b9068bfe5df74276bd015b9729eec4bf)
+♥[SQL23](https://www.nowcoder.com/practice/b9068bfe5df74276bd015b9729eec4bf)
 
-[SQL24_获取所有非manager员工当前的薪水情况，给出dept_no、emp_no以及salary](https://www.nowcoder.com/practice/8fe212a6c71b42de9c15c56ce354bebe) exists 和 in, exists表示前者包含于后者, in指的是前面比后面大
+[SQL24](https://www.nowcoder.com/practice/8fe212a6c71b42de9c15c56ce354bebe) exists 和 in, exists表示前者包含于后者, in指的是前面比后面大
+
+### 2020.8.4
+#### leetcode:
+
+[LeetCode_121_](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) ### [dp](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/dp-by-zheng-yi-nowei-fang/)
+
+#### [50道SQL练习题及答案与详细分析](https://www.jianshu.com/p/476b52ee4f1b):
+[SQL1] | [SQL1.1] | [SQL1.2] | [SQL1.3]
