@@ -36,7 +36,7 @@
 
 1. [致敬大神《特征工程》视频](https://www.bilibili.com/video/BV17E411471x)
 
-●1. [百面机器学习](https://www.bilibili.com/video/BV1gt41157eq)
+●1. [百面机器学习]
 1. [西瓜书后几章和神经网络]
 
 1. [kernel method](https://www.bilibili.com/video/av31552048/?spm_id_from=333.788.videocard.1)
