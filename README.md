@@ -13,7 +13,7 @@
 
 1. [tableau四大表](https://www.bilibili.com/video/BV1fz4y1D7gm)
 
-1. [戴师兄2021网易数分笔试复盘1](https://www.bilibili.com/video/BV1Vf4y1979X?t=234)
+1. [戴师兄2021网易数分笔试复盘-1](https://www.bilibili.com/video/BV1Vf4y1979X?t=234)
 
 --- 
 ## * ⛽️to do list:
