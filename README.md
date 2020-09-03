@@ -1,6 +1,6 @@
 # Struggle For 2021 Work
 
-笔记呈现包括在线文档md文件以及手写本子, md文件主要分布在
+笔记呈现包括在线文档md文件以及手写本子, md文件主要分布在interview和note里
 
 ## * 🐓Done:
 
