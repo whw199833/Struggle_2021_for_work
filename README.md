@@ -1,6 +1,8 @@
 # Struggle For 2021 Work
 
 ## * 🐓Done:
+
+### * 算法笔记/书/视频
 1. [SQL必知必会]
 
 2. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
@@ -9,12 +11,15 @@
 
 1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
 
+---
+### * 数分笔记/视频/书
+
 1. [tableau四大表](https://www.bilibili.com/video/BV1fz4y1D7gm)
 
 1. [戴师兄2021网易数分笔试复盘7步法-1](https://www.bilibili.com/video/BV1Vf4y1979X?t=234), 以及[笔记](https://github.com/whw199833/Struggle_2021_for_work/blob/master/notes/wangyi_interview/%E7%BD%91%E6%98%93_%E6%95%B0%E5%88%86.md)
 
 ---
-刷题篇
+### * 刷题篇
 1. [SQL牛客编程题61道](https://www.nowcoder.com/ta/sql)
 
 --- 
@@ -30,8 +35,6 @@
 
 [Pytorch_code_learning_tutorial](https://pytorch.org/tutorials/)
 
-## * ⛽️to do list:
----
 1. [统计学习方法](https://www.bilibili.com/video/BV1i4411G7Xv)
 
 ●[概统](https://www.bilibili.com/video/BV1n741137tv?p=1)
