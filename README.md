@@ -5,11 +5,11 @@
 ### * 算法笔记/书/视频
 1. [SQL必知必会]
 
-2. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq)
+2. [机器学习线代基础_PCA的推导与实现](https://www.bilibili.com/video/BV127411t7tq) --> 大白报<math for 机器学习>
 
-1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ)
+1. [致敬大神《西瓜书》视频](https://www.bilibili.com/video/BV17J411C7zZ) --> 大演草<西瓜书>
 
-1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748)
+1. [致敬大神《深度学习》视频](https://www.bilibili.com/video/BV12t411N748) --> 大演草<西瓜书>
 
 ---
 ### * 数分笔记/视频/书
@@ -20,12 +20,22 @@
 
 ---
 ### * 刷题篇
-1. [SQL牛客编程题61道](https://www.nowcoder.com/ta/sql)
+1. [SQL牛客编程题61道](https://www.nowcoder.com/ta/sql) 
 
 --- 
+## * 🐈在线文档doing
+
+[interview for data scientist](https://github.com/whw199833/Struggle_2021_for_work/blob/master/interview/Data_Scientist.md)
+
+[interview for Algorithm](https://github.com/whw199833/Struggle_2021_for_work/blob/master/interview/Algorithm.md)
+
+[BAT interview 1000](https://github.com/whw199833/Struggle_2021_for_work/blob/master/interview/BAT%20ML%20interview.md)
+
+
+---
 ## * ⛽️to do list:
 
-●[BAT面试1000题](https://zhuanlan.zhihu.com/p/41952330)
+●[BAT面试1000题](https://zhuanlan.zhihu.com/p/41952330) --> [BAT interview 1000](https://github.com/whw199833/Struggle_2021_for_work/blob/master/interview/BAT%20ML%20interview.md)
 
 [刷题参考](https://github.com/DmrfCoder/AlgorithmAndDataStructure)
 
@@ -78,6 +88,5 @@
 2. [面经补课_8](https://mp.weixin.qq.com/s/yCs-PJ7VJ1DE_b5ABP0_GQ)
 2. [面经补课_9](https://codle.net/intern-interview/)
 
-## * 🐈刷题篇
----
+
 
