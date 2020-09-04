@@ -89,9 +89,3 @@
 1. [面经补课_7](https://mp.weixin.qq.com/s/9F8_xMgGHqbI0fOEhQDnaA)
 2. [面经补课_8](https://mp.weixin.qq.com/s/yCs-PJ7VJ1DE_b5ABP0_GQ)
 2. [面经补课_9](https://codle.net/intern-interview/)
-
-2020/9/4
-[50道SQL练习题及答案与详细分析]*4--> 1.3, 2, 3, 4
-
-
-
