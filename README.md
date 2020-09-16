@@ -67,7 +67,7 @@ database.md, Github_2020名企高频面试题.md, 赛码网.md
 1. [中科大《凸优化》](https://www.bilibili.com/video/BV1Jt411p7jE)
 1. [CS224n_NLP](https://www.bilibili.com/video/BV1r4411f7td)
 
-●1. [数据结构](https://www.bilibili.com/video/BV1b54y1q7Hj) ---> [[教材]]（https://runestone.academy/runestone/books/published/pythonds/index.html）
+●1. [数据结构](https://www.bilibili.com/video/BV1b54y1q7Hj) ---> [教材]（https://runestone.academy/runestone/books/published/pythonds/index.html）
 1. [数据结构](https://www.bilibili.com/video/BV1JW411i731?from=search&seid=7444677966916988839) +  [python笔记和作业](https://github.com/CYBruce/DataStructure_Algorithm_ZJU)
 1. [数据库]
 
