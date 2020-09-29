@@ -20,7 +20,9 @@ database.md, Github_2020名企高频面试题.md, 赛码网.md
 
 1. [tableau四大表](https://www.bilibili.com/video/BV1fz4y1D7gm)
 
-1. [戴师兄2021网易数分笔试复盘7步法-1](https://www.bilibili.com/video/BV1Vf4y1979X?t=234), 以及[md的笔记点这里](https://github.com/whw199833/Struggle_2021_for_work/blob/master/notes/wangyi_interview/%E7%BD%91%E6%98%93_%E6%95%B0%E5%88%86.md)
+2. [戴师兄2021网易数分笔试复盘7步法-1](https://www.bilibili.com/video/BV1Vf4y1979X?t=234), 以及[md的笔记点这里](https://github.com/whw199833/Struggle_2021_for_work/blob/master/notes/wangyi_interview/%E7%BD%91%E6%98%93_%E6%95%B0%E5%88%86.md)
+
+3. [戴师兄2021网易数分笔试复盘7步法-2](https://www.bilibili.com/video/BV1Ga4y177sF)
 
 ---
 ### * 刷题篇
